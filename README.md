@@ -1,4 +1,4 @@
-# Synchronization phenomenon of phase dynamics in the Kuramoto model on graphs.
+# Synchronization phenomenon of phase dynamics in the Kuramoto model on graphs
 
 This project consists of four logical parts:
 1. Fast and efficient Kuramoto model simulation toolkit on arbitrary graphs with Numba CUDA-jitter.  
