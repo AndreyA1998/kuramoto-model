@@ -10,8 +10,8 @@ Some function annotations and specifications could be found in source files.
 
 **kuramoto_model.py** - main framework file with Kuramoto model implementation (the first part),  
 **utils.py** - a bag with graph generation methods (the second part),  
-**Synchronization.ipynb** - Jupyter notebooks with phase transition detection experiments (the third part),  
-**Graph Evolution.ipynb** - Jupyter notebooks with graph adjacency matrix evolution experiments (the fourth part).
+**Synchronization.ipynb** - Jupyter notebook with phase transition detection experiments (the third part),  
+**Graph Evolution.ipynb** - Jupyter notebook with graph adjacency matrix evolution experiments (the fourth part).
 
 *Nota Bene 1*: The project is still in the development stage, so the code often contains many auxiliary constructs and comments on possible improvements.
 
